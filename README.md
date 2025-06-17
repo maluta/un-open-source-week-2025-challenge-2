@@ -2,8 +2,8 @@
 
 <div align="center">
   
-![Team SEESALT Banner](https://img.shields.io/badge/Team-SEESALT-2196F3?style=for-the-badge&logo=satellite&logoColor=white)
-![UN Challenge 2](https://img.shields.io/badge/UN%20Challenge%202-Geo--Puzzle-00E676?style=for-the-badge&logo=globe&logoColor=white)
+![Team SEESALT Banner](https://media.licdn.com/dms/image/v2/D4E0BAQEUkflSQg50KQ/company-logo_200_200/B4EZYT0WAyHgAI-/0/1744089211213/seesalt__logo?e=2147483647&v=beta&t=ef_JHTCurbsmpgL--foxEvdwdnF2hKKmYTt3sYzwIHE)
+![UN Challenge 2](https://www.un.org/digital-emerging-technologies/sites/www.un.org.digital-emerging-technologies/files/styles/panopoly_image_original/public/pages/Website_Banner_with_Logo_2.png?itok=XMbJWVIl)
 ![Production Ready](https://img.shields.io/badge/Status-Production%20Ready-4CAF50?style=for-the-badge&logo=check-circle&logoColor=white)
 
 **Advanced Multi-Hazard Data Overlay with Children Vulnerability Assessment**
@@ -364,7 +364,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 *"Protecting children through advanced climate intelligence"*
 
 ![Team SEESALT Logo](https://media.licdn.com/dms/image/v2/D4E0BAQEUkflSQg50KQ/company-logo_200_200/B4EZYT0WAyHgAI-/0/1744089211213/seesalt__logo?e=2147483647&v=beta&t=ef_JHTCurbsmpgL--foxEvdwdnF2hKKmYTt3sYzwIHE)
-![UN Challenge](https://www.un.org/digital-emerging-technologies/profiles/panopoly/themes/unite_one_five/images/UN-logo.svg)
+![UN Challenge](https://www.un.org/digital-emerging-technologies/sites/www.un.org.digital-emerging-technologies/files/styles/panopoly_image_original/public/pages/Website_Banner_with_Logo_2.png?itok=XMbJWVIl)
 
 **Made with ❤️ for children's safety worldwide**
 
