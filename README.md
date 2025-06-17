@@ -1,4 +1,4 @@
-# 🏆 Team SEESALT - UN Tech Over Challenge 2 Solution
+# 🏆 Team SEESALT - UN Tech Over Solution
 
 <div align="center">
 
