@@ -70,6 +70,18 @@ Our solution specifically focuses on **children's vulnerability** to environment
 - **Quality scoring system** with automated recommendations
 - **Time series analysis** with predictive capabilities
 
+✦ Main repository:
+https://github.com/maluta/un-open-source-week-2025-challenge-2/tree/gh-pages
+✦ Dashboard https://maluta.github.io/un-open-source-week-2025-challenge-2
+
+[ Maps ]
+
+✦ Cambodia http://maluta.github.io/un-open-source-week-2025-challenge-2/outputs/maps/cambodia_ultra_enhanced_map.html
+✦ Kenya http://maluta.github.io/un-open-source-week-2025-challenge-2/outputs/maps/kenya_ultra_enhanced_map.html
+✦ Tajikistan
+http://maluta.github.io/un-open-source-week-2025-challenge-2/outputs/maps/tajikistan_ultra_enhanced_map.html
+
+✦ Slides: https://maluta.github.io/un-open-source-week-2025-challenge-2/outputs/slides/
 ---
 
 ## 🏗️ **System Architecture**
