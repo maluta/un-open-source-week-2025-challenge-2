@@ -6,7 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://www.un.org/digital-emerging-technologies/sites/www.un.org.digital-emerging-technologies/files/ODET_color.png" alt="UN ODET Logo" width="150"/>
+<img src="https://www.un.org/digital-emerging-technologies/sites/www.un.org.digital-emerging-technologies/files/ODET_color.png" alt="UN ODET Logo" width="300"/>
 
 ![Team SEESALT Banner](https://img.shields.io/badge/Team-SEESALT-2196F3?style=for-the-badge&logo=satellite&logoColor=white)
 ![UN Challenge 2](https://img.shields.io/badge/UN%20Challenge%202-Geo--Puzzle-00E676?style=for-the-badge&logo=globe&logoColor=white)
@@ -745,11 +745,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 </div>
 
 ---
-
-## 📈 **Project Stats**
-
-![GitHub stars](https://img.shields.io/github/stars/team-seesalt/un-challenge2?style=social)
-![GitHub forks](https://img.shields.io/github/forks/team-seesalt/un-challenge2?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/team-seesalt/un-challenge2?style=social)
-
-**Last Updated:** December 2024 | **Version:** 2.0 Enhanced | **Status:** Production Ready
